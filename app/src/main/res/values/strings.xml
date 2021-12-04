@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Watch This</string>
+    <string name="poster_of_movie">Poster of movie</string>
+    <string name="most_popular">Most popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="big_poster">Big poster</string>
+    <string name="label_name_of_movie">Name of movie:</string>
+    <string name="label_original_title">Original name of movie:</string>
+    <string name="label_rating">Rating:</string>
+    <string name="label_release_date">Release date:</string>
+    <string name="label_description">Description:</string>
+    <string name="add_to_favourite">Add to favourite</string>
+    <string name="remove_from_favourite">Remove from favourite</string>
+    <string name="item_main">Main</string>
+    <string name="item_favourite">Favourite</string>
+    <string name="add_remove_favourite">Add or remove favourite</string>
+    <string name="launch_trailer">Launch trailer</string>
+    <string name="label_trailers">Trailers:</string>
+    <string name="label_reviews">Reviews:</string>
+    <string name="exit">Exit</string>
+</resources>
